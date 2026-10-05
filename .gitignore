@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+despacho-local/*.xlsx
+!despacho-local/plantilla/*.xlsx
